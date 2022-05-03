@@ -1,0 +1,6 @@
+{
+  "Type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
